@@ -1,0 +1,1 @@
+bash ~/software/IGV_Linux_2.12.3/igv.sh 09_gaps/* 07_annot/*vcf */*.bam
